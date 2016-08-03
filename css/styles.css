@@ -1,6 +1,9 @@
 body{
   background-color: #1a1a1a;
   color: white;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .tour-dates{
   float: left;
@@ -9,14 +12,27 @@ body{
   border-color: red;
 }
 .icyPic img{
-  width: 40%;
+  width: 500px;
   height: auto;
-  margin-left: 30%;
-  border-style: outset black;
-
+  margin-bottom: 30px;
+  border-style: outset;
+  border-color: grey;
+  border-width: 20px;
 }
 h1{
   font-size: 40px;
   text-shadow: 0 0 10px red;
+}
+#bio{
   text-align: center;
+}
+#slash{
+  float: right;
+  border-style: inset;
+  border-width: thick;
+  border-color: red;
+
+}
+p{
+  font-size: 22px;
 }
