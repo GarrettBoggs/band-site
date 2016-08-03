@@ -6,10 +6,13 @@ body{
   margin-right: 10%;
 }
 .tour-dates{
+  background: gray;
   float: left;
   border-style: inset;
   border-width: thick;
+  text-align: left;
   border-color: red;
+  padding: 5px;
 }
 .icyPic img{
   width: 500px;
