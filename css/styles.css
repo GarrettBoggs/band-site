@@ -1,0 +1,22 @@
+body{
+  background-color: #1a1a1a;
+  color: white;
+}
+.tour-dates{
+  float: left;
+  border-style: inset;
+  border-width: thick;
+  border-color: red;
+}
+.icyPic img{
+  width: 40%;
+  height: auto;
+  margin-left: 30%;
+  border-style: outset black;
+
+}
+h1{
+  font-size: 40px;
+  text-shadow: 0 0 10px red;
+  text-align: center;
+}
